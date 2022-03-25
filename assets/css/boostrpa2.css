@@ -1,0 +1,138 @@
+
+
+font-family: 'Montserrat', sans-serif
+body{
+	
+}
+/*==============//css-strat//=============*/
+.top-bar-section{
+	background:black;
+	padding:15px 0;
+}
+.header-bar-section ul li a{
+	font-size:12px;
+	color:black;
+	font-family: 'Lato', sans-serif;
+	font-weight:400;
+}
+a{
+	text-decoration:none;
+	color:white;
+	font-family: 'EB Garamond', serif;
+}
+ul li{
+	list-style:none;
+}
+.us-flag a i{
+	color:red;
+}
+/*===============//second-part//==================*/
+.toplevel{
+	position: absolute;
+	top: 45%;
+}
+.toplevel h5{
+	font-family: "EB Garamond", Sans-serif;
+    font-size: 45px;
+    text-transform: uppercase;
+    font-style: normal;
+    line-height: 60px;
+	text-shadow: 2px 2px #black;
+}
+.toplevel .life-is a{
+	padding:10px 25px;
+	border:3px solid white;
+	margin-top:50%;
+	font-size:30px;
+	font-family: 'Lato', sans-serif;
+	font-weight:400;
+}
+.toplevel .life-is{
+	display:flex;
+	justify-content:center;
+	margin-top:100px;
+}
+/*====================//third-part//====================*/
+.histroy-section-bar{
+	padding:100px 0;
+}
+.all-contant-bar h3{
+	font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 37px;
+	font-family: "EB Garamond", Sans-serif;
+}
+.all-contant-bar h1{
+	font-family: "EB Garamond", Sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    line-height: 60px
+	color: #006266
+}
+.light a{
+	padding:10px 30px;
+	background:#4B0B0C;
+}
+#extra{	
+	padding:10px 45px;
+	text-align:center;
+}
+/*==============================//fourth-part//=====================*/
+.card-section-bar{
+	background:#BFBFBF;
+}
+.card-header-text{
+	padding:100px 0;
+}
+.card-header-text h1{
+	color: #006266;
+    font-size: 60px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 30px;
+	font-family: "EB Garamond", Sans-serif; 
+}
+.card-body{
+    background:#BFBFBF;
+	padding:20px 0;
+}
+/*==================//fifth-part//======================*/
+.dadu-vhai{
+	text-align:center;
+}
+.dadu-vhai a{
+	background:black;
+	color:#fff;
+}
+#dada-vhai{
+	padding:5% 15%;
+	text-align:center;
+}
+.header-silde h1{
+	color: #006266;
+    font-size: 60px;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+/*================================//sixth-part//==============*/
+.gallary-header h1{
+	font-size:60px;
+	color:#006266;
+	font-family: "EB Garamond", Sans-serif; 
+}
+/*========================//Eight-part//========================*/
+.search-box input[type=submit]{margin-left:-88px;}
+.search-box input[type=email]{background:#DADADA;}
+.nine-section-bar{padding:65px 0;}
+.search-box input::placeholder{padding:20px;}
+.all-text-bar h3{font-family: "EB Garamond", Sans-serif; font-weight:600;}
+.all-text-bar h1{font-family: "EB Garamond", Sans-serif; font-weight:500;
+ line-height:60px; font-size:58px;}
+.all-text-bar .low{font-size:15px;}
+ 
+ /*============================//ninteth-part//=============*/
+ .contant-second li{list-style:none;}
+ .footer-parrents{font-family: 'Lato', sans-serif; font-weight:400;}
+ .contant-second h3{font-family: "EB Garamond;}
+ 
